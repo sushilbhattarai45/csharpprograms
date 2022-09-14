@@ -1,0 +1,15 @@
+D:\sushill\csharp\csharpprograms\programs\bin\Debug\net6.0\programs.exe
+D:\sushill\csharp\csharpprograms\programs\bin\Debug\net6.0\programs.deps.json
+D:\sushill\csharp\csharpprograms\programs\bin\Debug\net6.0\programs.runtimeconfig.json
+D:\sushill\csharp\csharpprograms\programs\bin\Debug\net6.0\programs.dll
+D:\sushill\csharp\csharpprograms\programs\bin\Debug\net6.0\programs.pdb
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\programs.csproj.AssemblyReference.cache
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\programs.GeneratedMSBuildEditorConfig.editorconfig
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\programs.AssemblyInfoInputs.cache
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\programs.AssemblyInfo.cs
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\programs.csproj.CoreCompileInputs.cache
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\programs.dll
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\refint\programs.dll
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\programs.pdb
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\programs.genruntimeconfig.cache
+D:\sushill\csharp\csharpprograms\programs\obj\Debug\net6.0\ref\programs.dll
