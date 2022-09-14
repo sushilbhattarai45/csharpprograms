@@ -1,14 +1,17 @@
-
-class HelloWorld
+using System;
+namespace chorko
 {
-    static void Main()
+    class HelloWorld
     {
-        Console.WriteLine("Let me decide who is pen chor");
-
-        for (int i = 0; i < 5; i++)
+        static void Main(String[] args)
         {
-            Console.WriteLine("Kalpit is pen chor");
+            Console.WriteLine("Let me decide who is pen chor");
 
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("Kalpit is pen chor");
+
+            }
         }
     }
 }
