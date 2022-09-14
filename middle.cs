@@ -4,7 +4,7 @@ class HelloWorld
 {
     static void Main()
     {
-        Console.WriteLine("enter first  digit  number");
+        Console.WriteLine("enter number");
         int a = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("enter Second  digit  number");
