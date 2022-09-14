@@ -1,29 +1,13 @@
-using System;
-namespace prog
+
+class HelloWorld
 {
-    class program
+    static void Main()
     {
-        static void Main(String[] args)
+        Console.WriteLine("Let me decide who is pen chor");
 
+        for (int i = 0; i < 5; i++)
         {
-            Console.WriteLine("Enter a  3 Digit Number");
-            int n = Convert.ToInt32(Console.ReadLine());
-            int rem = 0;
-            int count = 0;
-            while (n != 0)
-            {
-                rem = n % 10;
-                n = n / 10;
-                if (count == 2)
-                {
-                    int m = rem;
-                    Console.WriteLine(m);
-                }
-                count++;
-                n = n / 10;
-
-            }
-
+            Console.WriteLine("Kalpit is pen chor");
 
         }
     }
