@@ -9,7 +9,7 @@ namespace chorko
 
             for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("Kalpit is pen chor");
+                Console.WriteLine("rAJESH IS  is pen chor");
 
             }
         }
