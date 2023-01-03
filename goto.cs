@@ -12,8 +12,5 @@ class HelloWorld
         {
             goto ineligible;
         }
-
-
-
     }
 }

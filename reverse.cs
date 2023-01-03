@@ -1,8 +1,7 @@
 using System;
 namespace reverse
 {
-    class rev
-
+    class res
     {
         static void Main(String[] args)
 
@@ -15,7 +14,7 @@ namespace reverse
             {
                 rem = n % 10;
                 n = n / 10;
-
+  
                 rev = rev * 10 + rem;
             }
 
