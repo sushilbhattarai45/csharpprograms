@@ -5,6 +5,7 @@ namespace abc
     {
         public static void Main(String[] args)
         {
+
             char[] ch = { 'B', 'U', 'T', 'W', 'A', 'L' };
             for (int i = 0; i < ch.Length; i++)
             {
