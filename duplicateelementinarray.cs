@@ -14,6 +14,7 @@ public class HelloWorld
 
                 if (i != j)
                 {
+                    //increasing counter
                     if (arr[i] == arr[j])
                     {
                         count = count + 1;
@@ -22,7 +23,7 @@ public class HelloWorld
                 }
 
 
-            }
+            }  
 
 
 
